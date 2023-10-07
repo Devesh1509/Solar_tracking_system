@@ -32,18 +32,13 @@ The Arduino-Based Solar Tracking System is a project designed to optimize the ef
 ## Materials and Components
 To build this solar tracking system, you will need the following materials and components:
 - Arduino board (e.g., Arduino Uno)
-- Servo motors (2)
-- Light sensors (2)
+- Servo motors
+- Light sensors
 - Solar panels
 - Mounting structure
 - Jumper wires
-- Breadboard (optional)
+- Acrylic Sheet
 - Power supply
-
-
- ##### Upload the Arduino code (found in the arduino_code directory) to your - Arduino board using the Arduino IDE.
-
-##### Assemble the hardware components according to the circuit diagram provided in the docs folder.
 
 ## Usage
 - Power on the system.
@@ -52,18 +47,5 @@ To build this solar tracking system, you will need the following materials and c
 
 - Monitor the system's performance and energy generation.
 
-## Configuration
-To customize the solar tracking system for your location, follow these steps:
-
-- Open the Arduino code in the Arduino IDE.
-
-- Locate the configuration section in the code.
-
-- Adjust the latitude and longitude coordinates for your location.
-
-- Modify any other parameters as needed (e.g., tracking sensitivity).
-
-- Upload the updated code to your Arduino board.
-
 ## Contact
-For questions or inquiries, please contact Devesh Chandel.
+For questions or inquiries, please contact @Devesh1509.
